@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WORKING WITH MODULES.iml" filepath="$PROJECT_DIR$/WORKING WITH MODULES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-info.java/habit.user.iml" filepath="$PROJECT_DIR$/module-info.java/habit.user.iml" />
     </modules>
   </component>
 </project>
